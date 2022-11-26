@@ -9,7 +9,7 @@ beijing
 shang_others_shanghai
 
 
-xiamen
+xiamaan
 
 
 shenzhen
